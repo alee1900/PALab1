@@ -25,3 +25,5 @@ Verify if the generated graph is connected and display the connected components 
 - Assuming that the generated graph is connected, implement an algorithm that creates a partial tree of the graph. Display the adjacency matrix of the tree.
 - For larger n display the running time of the application in nanoseconds (DO NOT display the matrices). Try n > 30_000. You might want to adjust the JVM Heap Space using the VM options -Xms4G -Xmx4G.
 - Launch the application from the command line, for example: java Lab1 100.
+
+I have solved the part with n and created the adjacency matrix.
