@@ -1,6 +1,6 @@
 # PA Lab 1
 
-Compulsory:
+## Compulsory:
 
 Write a Java application that implements the following operations:
 - Display on the screen the message "Hello World!". Run the application. If it works, go to step 2 :)
@@ -16,7 +16,7 @@ Write a Java application that implements the following operations:
 
 I have solved everything in the compulsory.
 
-Optional:
+## Optional:
 
 - Let n be an integer given as a command line argument. Validate the argument!
 Create a n x n matrix, representing the adjacency matrix of a random graph .
@@ -26,4 +26,14 @@ Verify if the generated graph is connected and display the connected components 
 - For larger n display the running time of the application in nanoseconds (DO NOT display the matrices). Try n > 30_000. You might want to adjust the JVM Heap Space using the VM options -Xms4G -Xmx4G.
 - Launch the application from the command line, for example: java Lab1 100.
 
-I have solved the part with n and created the adjacency matrix.
+I have solved the first and second bullet points.
+
+## Bonus:
+
+- Implement an efficient algorithm that generates a random rooted tree. Create and display a textual representation of the tree, for example:
++node0
+  +node1
+    -node2
+  +node3
+    -node4
+    -node5
