@@ -31,6 +31,7 @@ I have solved the first and second bullet points.
 ## Bonus:
 
 - Implement an efficient algorithm that generates a random rooted tree. Create and display a textual representation of the tree, for example:
+
 +node0
   +node1
     -node2
