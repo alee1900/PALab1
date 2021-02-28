@@ -14,7 +14,7 @@ Write a Java application that implements the following operations:
 - Compute the sum of the digits in the result obtained in the previous step. This is the new result. While the new result has more than one digit, continue to sum the digits of the result.
 - Display on the screen the message: "Willy-nilly, this semester I will learn " + languages[result].
 
-!! I have solved everything in the compulsory.
+# I have solved everything in the compulsory.
 
 ## Optional:
 
@@ -26,7 +26,7 @@ Verify if the generated graph is connected and display the connected components 
 - For larger n display the running time of the application in nanoseconds (DO NOT display the matrices). Try n > 30_000. You might want to adjust the JVM Heap Space using the VM options -Xms4G -Xmx4G.
 - Launch the application from the command line, for example: java Lab1 100.
 
-I have solved the first and second bullet points.
+# I have solved the first and second bullet points.
 
 ## Bonus:
 
