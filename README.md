@@ -14,7 +14,7 @@ Write a Java application that implements the following operations:
 - Compute the sum of the digits in the result obtained in the previous step. This is the new result. While the new result has more than one digit, continue to sum the digits of the result.
 - Display on the screen the message: "Willy-nilly, this semester I will learn " + languages[result].
 
-I have solved everything in the compulsory.
+!! I have solved everything in the compulsory.
 
 ## Optional:
 
